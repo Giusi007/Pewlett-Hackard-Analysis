@@ -16,7 +16,7 @@ We started the process by determining all of the titles held by employees who ar
 
 Looking at the list of titles below, we can see that there are duplicate employee numbers. 
 
-![](..%5C..%5C..%5C..%5C..%5CDupes.png)
+![Image](..%5C..%5C..%5C..%5C..%5CDupes.png)
 
 These duplicate titles are due to the fact that employees have been promoted throughout their time at Pewlett-Hackard. Since we want to determine the roles that will need to be filled as these employees retire, it is necessary to remove duplicate employee numbers and get the current titles of all employees who are at retirement age. We did this with the following SQL query:
 
